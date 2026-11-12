@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "oorbi": {
+      "type": "http",
+      "url": "https://api.oorbital.ai/oorbi/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "oorbi",
+  "displayName": "Oorbi",
+  "version": "1.1.0",
+  "description": "Oorbi improves your prompts inside the AI you already use, saves what works as reusable Moves, and finds and uses your Moves, your company's and Oorbital's, in the AIs you use, in Oorbi in Chrome and in the Oorbital Console.",
+  "author": {
+    "name": "Oorbital",
+    "url": "https://oorbital.ai"
+  },
+  "homepage": "https://oorbital.ai",
+  "license": "LicenseRef-Oorbital-Proprietary",
+  "keywords": [
+    "prompts",
+    "prompt improvement",
+    "moves",
+    "productivity",
+    "ai at work"
+  ],
+  "icon": "./assets/oorbi-icon.png",
+  "documentationUrl": "https://oorbital.ai",
+  "supportUrl": "https://oor.bi/troubleshoot",
+  "privacyPolicyUrl": "https://oorbital.ai/privacy",
+  "termsOfServiceUrl": "https://oorbital.ai/terms"
+}

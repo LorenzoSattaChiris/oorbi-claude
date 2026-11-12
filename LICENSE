@@ -1,0 +1,97 @@
+OORBI PLUGIN LICENCE (INSTALL AND USE ONLY)
+
+Copyright (c) 2026 Oorbital AI Limited. All rights reserved.
+
+This is a proprietary licence. It is not an open-source licence. The Plugin is published so that it can be
+reviewed by and installed from AI application directories; publication grants no right except those stated here.
+
+1. Definitions
+
+"Oorbital" means Oorbital AI Limited, a company incorporated in England and Wales.
+
+"Plugin" means every file distributed with this licence, including the skills (all files under "skills/"), their
+instructions, wording, structure, selection and arrangement, examples and references, the manifests and
+configuration, the documentation and the icon, and any copy, translation or part of them, in any form.
+
+"AI Application" means ChatGPT, Claude or another AI application through which Oorbital makes the Plugin available.
+
+"Service" means Oorbital's services, including Oorbi, the Oorbital Console, the Oorbital APIs and the Move library.
+
+2. Licence to install and use
+
+Subject to your compliance with this licence and with Oorbital's Terms (https://oorbital.ai/terms), Oorbital grants
+you a limited, personal, revocable, non-exclusive, non-transferable and non-sublicensable licence to:
+
+(a) install the unmodified Plugin, as published by Oorbital, in an AI Application you are entitled to use; and
+
+(b) use it there for its intended purpose, including with the Service.
+
+The AI Application may load, read and process the Plugin as needed to run it for you. That processing is permitted
+solely to operate the Plugin, and gives neither you nor the AI Application's provider any further right in it.
+
+3. Restrictions
+
+Except as expressly permitted in section 2, or as applicable law permits despite this restriction, you must not, and
+must not allow or help anyone else to:
+
+(a) copy, reproduce, publish, distribute, share, sell, rent, lend or otherwise make available the Plugin or any part
+    of it, other than the copies an AI Application makes automatically to run it for you;
+
+(b) modify, adapt, translate, paraphrase or create derivative works of the Plugin or any part of it, including its
+    skills, instructions, wording, structure or examples;
+
+(c) extract, reuse or incorporate the Plugin's wording, instructions, structure or examples, in whole or in part, in
+    any other plugin, skill, prompt, product, service, document or dataset;
+
+(d) use the Plugin, or knowledge gained from inspecting it, to build, improve, train, benchmark or market any product
+    or service that competes with Oorbital or the Service;
+
+(e) use the Plugin or any part of it to train, fine-tune, evaluate or build any machine-learning model, dataset or
+    prompt library, other than the processing permitted in section 2;
+
+(f) remove, alter or obscure any copyright, trademark or licence notice; or
+
+(g) use the Plugin in breach of law or of the terms of the AI Application or of the Service.
+
+4. Ownership and reservation of rights
+
+The Plugin is licensed, not sold. Oorbital and its licensors own all right, title and interest in and to the Plugin
+and the Service, including all copyright, database rights, trade secrets and other intellectual property rights. All
+rights not expressly granted in this licence are reserved. No right is granted by implication, estoppel or
+otherwise. This licence grants no right to the Service, which is governed solely by Oorbital's Terms.
+
+5. Trademarks
+
+"Oorbi" and "Oorbital", their logos and the Oorbi icon are trademarks of Oorbital. This licence grants no right to
+use them, except to the extent needed to use the unmodified Plugin as published by Oorbital. See TRADEMARKS.md.
+
+6. Feedback and reviewers
+
+Any suggestion you give Oorbital about the Plugin may be used by Oorbital freely and without obligation. The operators
+of AI Application directories may review the Plugin for the sole purpose of evaluating and listing it.
+
+7. Termination
+
+This licence ends automatically if you breach it, and Oorbital may end it at any time by notice or by withdrawing the
+Plugin. When it ends you must stop using the Plugin and delete every copy in your control. Sections 3 to 10 survive.
+
+8. No warranty
+
+The Plugin is provided "as is" and "as available", without warranty or condition of any kind, express or implied,
+including merchantability, satisfactory quality, fitness for a particular purpose and non-infringement, to the
+fullest extent permitted by law. Oorbital has no obligation to support, maintain or update the Plugin.
+
+9. Limitation of liability
+
+To the fullest extent permitted by law, Oorbital is not liable for any indirect, incidental, special or consequential
+loss, or for any loss of profits, revenue, data or goodwill, arising from the Plugin or this licence, and its total
+liability under this licence is limited to one hundred pounds sterling (GBP 100). Nothing in this licence limits
+liability that cannot be limited by law, including for death or personal injury caused by negligence, or for fraud.
+
+10. Law and jurisdiction
+
+This licence and any dispute about it are governed by the law of England and Wales, and the courts of England and
+Wales have exclusive jurisdiction. If any provision is unenforceable, the rest remains in effect. Oorbital's failure
+to enforce a provision is not a waiver of it.
+
+Licensing enquiries: https://oorbital.ai
